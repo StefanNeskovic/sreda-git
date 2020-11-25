@@ -1,0 +1,11 @@
+.app-page{
+    min-height: 100vh;
+    width: 100wh;
+    background-color: black;
+    color: white;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: space-around;
+}
